@@ -40,5 +40,10 @@ Rotation   x      x      x
 Position   x  x          x  
 Scale      
 ```
+
+Planned features:
+- Bigger models and animations by splitting into multiple strings.
+- Sounds and particles in animation.
+
 If there are any issues you can report them and I might fix them at some point but it will likely take a while. If you have a fix for something you're welcome to make a pull request.  
 If you need to contact me you can do so on discord, my username is robolizard and I am also in the DiamondFire discord.
