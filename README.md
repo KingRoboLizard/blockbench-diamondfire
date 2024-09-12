@@ -1,5 +1,5 @@
 # blockbench-diamondfire
-A BlockBench plugin to export models and animations to DiamondFire
+A Blockbench plugin to export models and animations to DiamondFire
 
 Since progress has slowed down and I've kinda stopped working on it I have decided to just make it public since it could still be useful to others.  
 I might try to add it to the official plugin list or whatever it's called but I feel like the plugin needs to be a bit more organized before I do that.
@@ -14,7 +14,7 @@ redstone_lamp\[lit=true]
 oak_stairs\[facing=west,half=top]
 
 Animations:  
-To avoid issues with animations I recommend using the Bakery plugin by JannisX11, it is available in the plugin list in BlockBench.  
+To avoid issues with animations I recommend using the Bakery plugin by JannisX11, it is available in the plugin list in Blockbench.  
 For each transform that changes the amount and location of keyframes needs to be the same. For example:
 
 works:  
