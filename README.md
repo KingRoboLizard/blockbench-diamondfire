@@ -19,7 +19,7 @@ For each transform that changes the amount and location of keyframes needs to be
 
 works:  
 ```
-Rotation	x      x      x  
+Rotation   x      x      x  
 Position   
 Scale
 ```
