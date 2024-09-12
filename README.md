@@ -5,7 +5,7 @@ Since progress has slowed down and I've kinda stopped working on it I have decid
 I might try to add it to the official plugin list or whatever it's called but I feel like the plugin needs to be a bit more organized before I do that.
  
 Basic usage instructions:  
-Rename cubes to the block_id of what you want it to be:  
+Rename cubes to the block_id of what you want it to be, for example:  
 stone  
 redstone_lamp
 
